@@ -1,17 +1,14 @@
-<https://developer.android.com/build/building-cmdline#sign_cmdline>
+# SimpleDMS Android TWA
 
-Tools are in ~/Android/Sdk/build-tool/36.0.0
-
-## cert fingerprint for assetlinks.json (for website)
-
-keytool -list -v -keystore simpledms-release.jks
-
-## PWA Builder colors
+## PWABuilder colors
 
 lite: #FCF8F8
 dark: #141313
 
-## cmds
+## Commands
+
+<https://developer.android.com/build/building-cmdline#sign_cmdline>
+Tools are in ~/Android/Sdk/build-tool/36.0.0
 
 ### APK
 
@@ -23,10 +20,16 @@ apksigner verify my-app-release.apk
 
 ### Bundle
 
+```
 cp SimpleDMS-unsigned.aab simpledms-release.aab
 jarsigner --keystore ../simpledms-release.jks simpledms-release.aab simpledms-release
+```
 
 ## Certs
+
+### cert fingerprint for assetlinks.json (for website)
+
+`keytool -list -v -keystore simpledms-release.jks`
 
 ### Local signing
 
