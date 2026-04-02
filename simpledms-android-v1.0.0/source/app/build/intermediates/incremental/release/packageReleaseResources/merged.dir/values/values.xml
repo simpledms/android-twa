@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enableNotification">true</bool>
+    <bool name="enableSiteSettingsShortcut">true</bool>
+    <color name="backgroundColor">#FCF8F8</color>
+    <color name="colorPrimary">#FCF8F8</color>
+    <color name="colorPrimaryDark">#141313</color>
+    <color name="navigationColor">#FCF8F8</color>
+    <color name="navigationColorDark">#141313</color>
+    <color name="navigationDividerColor">#FCF8F8</color>
+    <color name="navigationDividerColorDark">#141313</color>
+    <color name="shortcut_background">#F5F5F5</color>
+    <integer name="splashScreenFadeOutDuration">300</integer>
+    <string name="appName" translatable="false">SimpleDMS</string>
+    <string name="assetStatements">
+    [{
+        \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+        \"target\": {
+            \"namespace\": \"web\",
+            \"site\": \"https://my.simpledms.app\"
+        }
+    }]
+    
+  </string>
+    <string name="fallbackType" translatable="false">customtabs</string>
+    <string name="fullScopeUrl" translatable="false">https://my.simpledms.app/assets/</string>
+    <string name="generatorApp" translatable="false">PWABuilder</string>
+    <string name="hostName" translatable="false">my.simpledms.app</string>
+    <string name="launchUrl" translatable="false">https://my.simpledms.app/</string>
+    <string name="launcherName" translatable="false">SimpleDMS</string>
+    <string name="orientation" translatable="false">default</string>
+    <string name="providerAuthority" translatable="false">app.simpledms.my.fileprovider</string>
+    <string name="shareTarget" translatable="false">{\"action\":\"/-/open-file/upload-files-cmd\",\"enctype\":\"multipart/form-data\",\"method\":\"POST\",\"params\":{\"files\":[{\"accept\":[\"*/*\"],\"name\":\"file\"}]}}</string>
+    <string name="webManifestUrl" translatable="false">https://my.simpledms.app/assets/manifest.json</string>
+</resources>
