@@ -7,4 +7,6 @@ The core of the concept consists of:
 - a well thought-out tag system for categorizing documents, and
 - workspaces (spaces) for shared or private access to documents.
 
-This app is a companion app for SimpleDMS. Registration through the app is not possible. You must register on the official website before you can use the app.
+This app is a companion app for the SimpleDMS SaaS offering (my.simpledms.app). Registration through the app is not possible. You must register on the official website before you can use the app.
+
+For technical reasons, users self-hosting SimpleDMS cannot use this app based on a Trusted Web Activity (TWA) and have to use the Progressive Web App (PWA) instead.

@@ -7,4 +7,6 @@ Kern des Konzepts bilden:
 - ein durchdachtes Schlagwort-System (Tags) zum Kategorisieren von Dokumenten, sowie
 - Arbeitsbereiche (Spaces) für gemeinsamen oder privaten Zugriff auf Dokumente.
 
-Diese App ist eine Begleit-App für SimpleDMS. Eine Registrierung über die App ist nicht möglich. Diese muss auf der offiziellen Website erfolgen, bevor die App genutzt werden kann.
+Diese App ist eine Begleit-App für das SimpleDMS-SaaS-Angebot. Eine Registrierung über die App ist nicht möglich. Diese muss auf der offiziellen Website erfolgen, bevor die App genutzt werden kann.
+
+Aus technischen Gründen können Nutzer, die SimpleDMS selbst hosten, diese App auf Basis einer Trusted Web Activity (TWA) nicht verwenden und müssen stattdessen die Progressive Web App (PWA) nutzen.
