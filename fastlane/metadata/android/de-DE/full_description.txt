@@ -1,0 +1,10 @@
+SimpleDMS ist ein einfach zu bedienendes Open-Source-Dokumenten­management­system (DMS) für Kleinunternehmen, das Dokumente (fast) wie von selbst sortiert.
+
+Das Metadaten-gestützte Konzept von SimpleDMS ermöglicht nach einer kurzen Einarbeitung eine effiziente Ablage und das schnelle Finden von Dokumenten.
+
+Kern des Konzepts bilden:
+
+- ein durchdachtes Schlagwort-System (Tags) zum Kategorisieren von Dokumenten, sowie
+- Arbeitsbereiche (Spaces) für gemeinsamen oder privaten Zugriff auf Dokumente.
+
+Diese App ist eine Begleit-App für SimpleDMS. Eine Registrierung über die App ist nicht möglich. Diese muss auf der offiziellen Website erfolgen, bevor die App genutzt werden kann.
