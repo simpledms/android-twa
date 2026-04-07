@@ -1,4 +1,4 @@
-#Tue Apr 07 18:09:00 GMT 2026
+#Tue Apr 07 20:14:36 GMT 2026
 base.0=/home/marco/workspace/simpledms/android-twa/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
