@@ -4,3 +4,6 @@
 *.zip
 *.idsig
 assetlinks.json
+build/**
+app/build/**
+.gradle/**

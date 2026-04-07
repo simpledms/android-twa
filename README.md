@@ -8,7 +8,7 @@ dark: #141313
 ## Commands
 
 <https://developer.android.com/build/building-cmdline#sign_cmdline>
-Tools are in ~/Android/Sdk/build-tool/36.0.0
+Tools are in ~/Android/Sdk/build-tools/36.0.0
 
 ### APK
 
